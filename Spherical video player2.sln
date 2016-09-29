@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A654E094-A01B-78A8-A9C1-70AA08D781BE}") = "Spherical video player2", "Assembly-CSharp-firstpass.csproj", "{33194FE2-8292-F572-0189-13D0989A6B84}"
+EndProject
+Project("{A654E094-A01B-78A8-A9C1-70AA08D781BE}") = "Spherical video player2", "Assembly-CSharp.csproj", "{B5C40916-A372-54A1-1BDA-5311933DB93D}"
+EndProject
+Project("{A654E094-A01B-78A8-A9C1-70AA08D781BE}") = "Spherical video player2", "Assembly-CSharp-Editor.csproj", "{000DFC89-08E7-1D54-9F80-F2B79CE26F27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33194FE2-8292-F572-0189-13D0989A6B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33194FE2-8292-F572-0189-13D0989A6B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33194FE2-8292-F572-0189-13D0989A6B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33194FE2-8292-F572-0189-13D0989A6B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5C40916-A372-54A1-1BDA-5311933DB93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C40916-A372-54A1-1BDA-5311933DB93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C40916-A372-54A1-1BDA-5311933DB93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C40916-A372-54A1-1BDA-5311933DB93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000DFC89-08E7-1D54-9F80-F2B79CE26F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000DFC89-08E7-1D54-9F80-F2B79CE26F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000DFC89-08E7-1D54-9F80-F2B79CE26F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000DFC89-08E7-1D54-9F80-F2B79CE26F27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
